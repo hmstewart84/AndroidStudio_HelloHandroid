@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HelloHandroid</string>
+    <string name="another_greeting"></string>
+    <string name="question">Ask me a question that returns an animal name!</string>
+    <string name="button">Press this button, go on!</string>
+    <string name="answer_title">answer is...</string>
+</resources>
